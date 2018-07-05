@@ -6,8 +6,8 @@ public class SwapNumbers {
 		int y = 200;
 		int temp;
 		
-		int a = 100;
-		int b = 200;
+		int a = 10;
+		int b = 20;
 		
 		System.out.println("Before Swapping X : "+x+ " Y : "+y );
 		
