@@ -2,8 +2,8 @@
 public class SwapNumbers {
 
 	public static void main(String[] args) {
-		int x = 10;
-		int y = 20;
+		int x = 100;
+		int y = 200;
 		int temp;
 		
 		int a = 100;
